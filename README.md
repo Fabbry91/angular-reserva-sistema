@@ -1,3 +1,9 @@
+# Aplicacion Angular - Simple Reservation System
+
+The application allows you to reserve rooms. Indicating Name, Surname, Date, Time, and Room, also allow you to delete the reservation. The web page was made in Angular 12 and TypeScript using the LocalStorage to store the information.
+
+To access the DEMO version of the application, it is available at the following link: https://fabbry91.github.io/angular-reserva-sistema/
+
 # Reserva
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
@@ -25,3 +31,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Aplicacion Angular - Sistema Simple de Reserva
+
+La aplicacion permite realizar la reserva de salas. Indicando Nombre, Apellido, Fecha, Hora, y Sala, tambien permine eliminar la reserva. La pagina web fue realizada en Angular 12 y TypeScript utilizando el LocalStorage para almacenar la información.
+
+Para acceder, a la version DEMO de la aplicacion, se encuentra disponible en el siguiente link: https://fabbry91.github.io/angular-reserva-sistema/
