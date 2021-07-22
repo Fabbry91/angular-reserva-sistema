@@ -1,0 +1,9 @@
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title text-center">Lista de reservas</h5>
+        <hr>
+
+        <app-reserva *ngFor="let res of reservasArr" [reserva]="res"></app-reserva>
+
+    </div>
+</div>
